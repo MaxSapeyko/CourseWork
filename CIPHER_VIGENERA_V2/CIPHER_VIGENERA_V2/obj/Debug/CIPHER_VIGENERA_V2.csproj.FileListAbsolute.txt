@@ -1,0 +1,26 @@
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.csprojAssemblyReference.cache
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.Form1.resources
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.Properties.Resources.resources
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.csproj.GenerateResource.cache
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.csproj.CoreCompileInputs.cache
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\bin\Debug\CIPHER_VIGENERA_V2.exe.config
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\bin\Debug\CIPHER_VIGENERA_V2.exe
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\bin\Debug\CIPHER_VIGENERA_V2.pdb
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.exe
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.pdb
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\bin\Debug\uk-UA\CIPHER_VIGENERA_V2.resources.dll
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.Form1.uk-UA.resources
+D:\ЧНУ\Курсова\Шифр Віженера\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\uk-UA\CIPHER_VIGENERA_V2.resources.dll
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\bin\Debug\CIPHER_VIGENERA_V2.exe.config
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\bin\Debug\CIPHER_VIGENERA_V2.exe
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\bin\Debug\CIPHER_VIGENERA_V2.pdb
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\bin\Debug\uk-UA\CIPHER_VIGENERA_V2.resources.dll
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.csprojAssemblyReference.cache
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.Form1.resources
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.Properties.Resources.resources
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.Form1.uk-UA.resources
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.csproj.GenerateResource.cache
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.csproj.CoreCompileInputs.cache
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\uk-UA\CIPHER_VIGENERA_V2.resources.dll
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.exe
+D:\ЧНУ\Курсова\ToGit\CIPHER_VIGENERA_V2\CIPHER_VIGENERA_V2\obj\Debug\CIPHER_VIGENERA_V2.pdb
